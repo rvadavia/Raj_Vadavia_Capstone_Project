@@ -64,10 +64,8 @@
 
 \-------------------- draft visualization and data cleaning
 
-![A picture containing text, screenshot, rectangle, diagram Description automatically generated](media/bc9b965297fb58eead630074d80653c6.png)
+![A picture containing text, screenshot, diagram, plot Description automatically generated](media/42994b70b1e6a6015a9c95a67d56bdad.png) ![A picture containing text, screenshot, rectangle, diagram Description automatically generated](media/9bed8c5f4a8ca2f26e91e553c7229d96.png)
 
-![A picture containing text, diagram, screenshot, plot Description automatically generated](media/371c722cd098bce3123235a6be03090d.png)
+![A picture containing text, diagram, screenshot, plot Description automatically generated](media/9b0b488d620e11d91e57a505d7997d86.png) ![A picture containing text, screenshot, diagram, line Description automatically generated](media/91d04a698a4f97cf562a11abbf797c45.png)
 
-![A picture containing text, screenshot, diagram, plot Description automatically generated](media/57e47f9d642cc22f57be8a2883589007.png)
-
-![A picture containing text, screenshot, display, software Description automatically generated](media/aab62ee876e312b5facd35d41a435573.png)
+![A picture containing text, screenshot, line, plot Description automatically generated](media/87f760676dab86416fc151ef915b7bfc.png) ![A picture containing text, screenshot, rectangle, diagram Description automatically generated](media/4edb2f18aa6acb514bb3c8f7dd581609.png)
