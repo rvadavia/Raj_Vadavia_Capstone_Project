@@ -139,15 +139,15 @@
 | max   |      90      |     1         |      90      |     1         |
 
 
-![Image](media/Count_plot_of_diagnosis.png)
+![Image](media\Count_plot_of_diagnosis.png)
 
-![Image](media/Count_plot_of_sex.png)
+![Image](media\Count_plot_of_sex.png)
 
-![Image](media/Histogram_of_age_approx.png)
+![Image](media\Histogram_of_age_approx.png)
 
-![Image](media/Count_plot_of_anatomy_sites.png)
+![Image](media\Count_plot_of_anatomy_sites.png)
 
-![Image](media/Histogram_of_target.png)
+![Image](media\Histogram_of_target.png)
 
-![Image](media/Count_plot_of_benign_malignant.png)
+![Image](media\Count_plot_of_benign_malignant.png)
 
