@@ -72,3 +72,15 @@
 | max   |      90      |     1         |      90      |     1         |
 
 
+![Image](media/Count plot of diagnosis.png)
+
+![Image](media/Count plot of sex.png)
+
+![Image](media/Histogram of age_approx.png)
+
+![Image](media/Count plot of anatomy_sites.png)
+
+![Image](media/Histogram of target.png)
+
+![Image](media/Count plot of benign_malignant.png)
+
